@@ -2,4 +2,4 @@
 
 EXPLORE HERE : https://codedamn.com/50-days-of-js
 
-Files are not serial-wise. Sorry for the inconvenience 🙂
+Files are not sorted serial-wise. Sorry for the inconvenience 🙂
