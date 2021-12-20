@@ -2,4 +2,5 @@
 
 EXPLORE HERE : https://codedamn.com/50-days-of-js
 
-Files are not sorted serial-wise. Sorry for the inconvenience 🙂
+The files here are not sorted🤷‍♂️. But they'll be in VSCode or any other code editor.
+Sorry for the inconvenience🙂
